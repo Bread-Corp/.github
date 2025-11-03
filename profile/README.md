@@ -143,6 +143,18 @@ This project represents the culmination of our final-year team's journey. Across
 
 ---
 
+## 📊 Our GitHub Activity
+
+This project is the product of hundreds of hours of work, commits, and collaboration across our 16 repositories. Here is a look at our flagship repository, the frontend interface for Tender Tool.
+
+<p align="center">
+  <a href="https://github.com/Bread-Corp/Tender-User-Interface">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bread-Corp&repo=Tender-User-Interface&theme=radical" alt="Tender Tool UI Repo Card">
+  </a>
+</p>
+
+---
+
 ## 🧑‍💻 Meet the Team Behind BreadCorp
 
 We are **Bread Corporation** - a passionate team of final-year Computer Science students who transformed an idea into a production-ready system that's changing how businesses discover public sector opportunities.
